@@ -1,6 +1,6 @@
 requests
+google
 urllib3
 click
 google-search
 colorama    
-google
